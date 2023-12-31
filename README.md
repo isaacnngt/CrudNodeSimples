@@ -1,4 +1,4 @@
-# CRUDS Simples com Node JS 🚀
+# CRUD Simples com Node JS 🚀
 
 ## 1. Sobre o projeto
 
