@@ -42,26 +42,26 @@ Para baixar as dependencias npm:
 npm install
 ```
 
-Para inciar o projeto:
+Para iniciar o projeto:
 
 ```
 npm start
 ```
 
-### 4 Comportamento de cada ação 
+### 4 Comportamento de cada ação e teste do CRUD
 
 Endpoint genérico: http://localhost:3002/cursos/
 
 | Ferramenta | Descrição |
 | --- | --- |
-| `GET http://localhost:3002/cursos/` | Deverá listar todos os cursos. |
-| `GET http://localhost:3002/cursos/1` | Deverá listar um curso pelo seu id. |
-| `PUT http://localhost:3002/cursos/1` | Deverá atualiza um curso pelo id.|
-| `POST http://localhost:3002/cursos` | Deverá criar um novo curso.|
-| `DELETE http://localhost:3002/cursos/1` | Deverá deletar um curso pelo id.|
-| `DELETE http://localhost:3002/cursos/delete/2` | Deverá atualiza um curso pelo id e ao deletar exibirá o nome do curso que foi excluído.|
+| `GET => http://localhost:3002/cursos/` | Deverá listar todos os cursos. |
+| `GET => http://localhost:3002/cursos/1` | Deverá listar um curso pelo seu id. |
+| `PUT => http://localhost:3002/cursos/1` | Deverá atualiza um curso pelo id.|
+| `POST => http://localhost:3002/cursos` | Deverá criar um novo curso.|
+| `DELETE => http://localhost:3002/cursos/1` | Deverá deletar um curso pelo id.|
+| `DELETE => http://localhost:3002/cursos/delete/2` | Deverá atualiza um curso pelo id e ao deletar exibirá o nome do curso que foi excluído.|
 
-### 5 Esquemas no Insomnia ou Postman
+### 5 Alguns esquemas para testes no Insomnia ou Postman
 
 
 - PUT: Atualização do curso
