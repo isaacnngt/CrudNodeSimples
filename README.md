@@ -82,7 +82,7 @@ Endpoint genérico: http://localhost:3002/cursos/
 
 ### 5.1 - Procurando direitinho tem muito conteúdo incrível no youtube 
 
-A ideia original desses projetinhos foram retiradas desse tutorial no youtube e melhorado posteriormente: (https://www.youtube.com/watch?v=hgFQgtsYG30)
+A ideia original desse projeto foi retirada desse tutorial no youtube e melhorado posteriormente: (https://www.youtube.com/watch?v=hgFQgtsYG30)
 
 ---
 ## Isaac Nunes
